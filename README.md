@@ -48,7 +48,7 @@ These agents are orchestrated through a LangGraph workflow that enables parallel
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sustainable-planning-agent.git
+   git clone https://github.com/yourusername/Multi_agent_sustainable_farming.git
    cd sustainable-planning-agent
    ```
 
@@ -150,9 +150,6 @@ You can customize the system by:
 - Enhancing the tools with real API integrations for all agents
 - Extending the user preference system with additional options
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
