@@ -23,7 +23,7 @@ All tool calls for the agents are mocked, so this is using offline synthetic dat
 
 The system consists of five specialized agents:
 
-1. **Info Gathering Agent**: Collects necessary travel details (destination, origin, dates, budget)
+1. **Info Gathering Agent**: Collects necessary details (market research and farming advisory datasets)
 2. **Sustainability Agent**: Recommends sustainable farming practices to reduce environmental impact
 3. **Farm advisor Agent**: Suggests best farming practices based on data and weather forecasts
 4. **Market intelligence Agent**: Recommends market intelligence based on data provided
